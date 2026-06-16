@@ -1,4 +1,4 @@
-# 📊 Inventory Management & Sales Analysis Dashboard
+#  Inventory Management & Sales Analysis Dashboard
 
 ## Overview
 
@@ -110,13 +110,13 @@ Insights:
 
 ### Main Inventory Dashboard
 
-![Dashboard Overview](images/dashboard1.png)
+![Dashboard Overview](http://github.com/akashsheet10/Cloth-Shop-Data-Analysis/blob/main/Screenshot%202026-06-16%20173056.png)
 
 ---
 
 ### Fast vs Slow Moving Inventory Analysis
 
-![Inventory Analysis](images/dashboard2.png)
+![Inventory Analysis](https://github.com/akashsheet10/Cloth-Shop-Data-Analysis/blob/main/Screenshot%202026-06-16%20173833.png)
 
 ---
 
