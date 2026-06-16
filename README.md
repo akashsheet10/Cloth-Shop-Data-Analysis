@@ -8,6 +8,21 @@ The analysis was performed on a retail inventory dataset containing product, sup
 
 ---
 
+## Dashboard Preview
+
+### Main Inventory Dashboard
+
+![Dashboard Overview](https://github.com/akashsheet10/Cloth-Shop-Data-Analysis/blob/main/Screenshot%202026-06-16%20173056.png)
+
+---
+
+### Fast vs Slow Moving Inventory Analysis
+
+![Inventory Analysis](https://github.com/akashsheet10/Cloth-Shop-Data-Analysis/blob/main/Screenshot%202026-06-16%20173833.png)
+
+---
+
+
 ## Project Objectives
 
 - Monitor inventory levels across products.
@@ -105,18 +120,6 @@ Insights:
 - Potential candidates for promotional offers
 
 ---
-
-## Dashboard Preview
-
-### Main Inventory Dashboard
-
-![Dashboard Overview](https://github.com/akashsheet10/Cloth-Shop-Data-Analysis/blob/main/Screenshot%202026-06-16%20173056.png)
-
----
-
-### Fast vs Slow Moving Inventory Analysis
-
-![Inventory Analysis](https://github.com/akashsheet10/Cloth-Shop-Data-Analysis/blob/main/Screenshot%202026-06-16%20173833.png)
 
 ---
 
