@@ -112,6 +112,7 @@ Insights:
 
 ![Dashboard Overview](http://github.com/akashsheet10/Cloth-Shop-Data-Analysis/blob/main/Screenshot%202026-06-16%20173056.png)
 
+
 ---
 
 ### Fast vs Slow Moving Inventory Analysis
@@ -144,20 +145,6 @@ This dashboard helps businesses:
 
 ---
 
-## Project Structure
-
-```text
-Inventory-Sales-Analysis/
-│
-├── Data/
-│   └── Inventory_Data.xlsm
-│
-├── Images/
-│   ├── dashboard1.png
-│   └── dashboard2.png
-│
-└── README.md
-```
 
 ---
 
@@ -167,4 +154,4 @@ Inventory-Sales-Analysis/
 
 Data Analyst | Excel Dashboard Developer
 
-GitHub: https://github.com/yourusername
+GitHub:(https://github.com/akashsheet10)
