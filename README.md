@@ -110,8 +110,7 @@ Insights:
 
 ### Main Inventory Dashboard
 
-![Dashboard Overview]([http://github.com/akashsheet10/Cloth-Shop-Data-Analysis/blob/main/Screenshot%202026-06-16%20173056.png](https://github.com/akashsheet10/Cloth-Shop-Data-Analysis/blob/main/Screenshot%202026-06-16%20173056.png))
-
+![Dashboard Overview]([http://github.com/akashsheet10/Cloth-Shop-Data-Analysis/blob/main/Screenshot%202026-06-16%20173056.png])
 
 ---
 
